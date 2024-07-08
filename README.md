@@ -26,6 +26,9 @@ Download my repository of my workspace
 git clone <repo_url>
 ```
 
+After downloading the repository, navigate to the turtlebot3_simulations/turtlebot3_gazebo/Dataset/worlds/hospital
+Create a models folder and unzip models_part*.zip into it.
+
 ## Usage
 
 0. Source the ROS environment and set the environment variables (Do this step for every terminal you open):
